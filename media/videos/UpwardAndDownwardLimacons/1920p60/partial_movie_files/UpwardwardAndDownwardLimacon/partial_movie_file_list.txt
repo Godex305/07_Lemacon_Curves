@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/godex305/manimations/07_Lemacon_Curves/media/videos/UpwardAndDownwardLimacons/1920p60/partial_movie_files/UpwardwardAndDownwardLimacon/2910253704_2716967093_223132457.mp4'
+file 'file:/Users/godex305/manimations/07_Lemacon_Curves/media/videos/UpwardAndDownwardLimacons/1920p60/partial_movie_files/UpwardwardAndDownwardLimacon/732045285_1553543566_2530785267.mp4'
+file 'file:/Users/godex305/manimations/07_Lemacon_Curves/media/videos/UpwardAndDownwardLimacons/1920p60/partial_movie_files/UpwardwardAndDownwardLimacon/732045285_2898155815_2427699226.mp4'
+file 'file:/Users/godex305/manimations/07_Lemacon_Curves/media/videos/UpwardAndDownwardLimacons/1920p60/partial_movie_files/UpwardwardAndDownwardLimacon/732045285_3617284963_4291512069.mp4'
+file 'file:/Users/godex305/manimations/07_Lemacon_Curves/media/videos/UpwardAndDownwardLimacons/1920p60/partial_movie_files/UpwardwardAndDownwardLimacon/732045285_3263629659_1546115086.mp4'
+file 'file:/Users/godex305/manimations/07_Lemacon_Curves/media/videos/UpwardAndDownwardLimacons/1920p60/partial_movie_files/UpwardwardAndDownwardLimacon/732045285_4083596046_4166270485.mp4'
+file 'file:/Users/godex305/manimations/07_Lemacon_Curves/media/videos/UpwardAndDownwardLimacons/1920p60/partial_movie_files/UpwardwardAndDownwardLimacon/732045285_334944838_3652637329.mp4'
+file 'file:/Users/godex305/manimations/07_Lemacon_Curves/media/videos/UpwardAndDownwardLimacons/1920p60/partial_movie_files/UpwardwardAndDownwardLimacon/732045285_4083596046_2460359903.mp4'
+file 'file:/Users/godex305/manimations/07_Lemacon_Curves/media/videos/UpwardAndDownwardLimacons/1920p60/partial_movie_files/UpwardwardAndDownwardLimacon/732045285_2688965532_1381056627.mp4'
+file 'file:/Users/godex305/manimations/07_Lemacon_Curves/media/videos/UpwardAndDownwardLimacons/1920p60/partial_movie_files/UpwardwardAndDownwardLimacon/732045285_2600270951_2358810818.mp4'

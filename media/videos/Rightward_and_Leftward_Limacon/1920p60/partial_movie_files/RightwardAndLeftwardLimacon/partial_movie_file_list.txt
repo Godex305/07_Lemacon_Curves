@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/godex305/manimations/07_Lemacon_Curves/media/videos/Rightward_and_Leftward_Limacon/1920p60/partial_movie_files/RightwardAndLeftwardLimacon/2910253704_4267714101_223132457.mp4'
+file 'file:/Users/godex305/manimations/07_Lemacon_Curves/media/videos/Rightward_and_Leftward_Limacon/1920p60/partial_movie_files/RightwardAndLeftwardLimacon/732045285_2049280120_2019299529.mp4'
+file 'file:/Users/godex305/manimations/07_Lemacon_Curves/media/videos/Rightward_and_Leftward_Limacon/1920p60/partial_movie_files/RightwardAndLeftwardLimacon/732045285_2898155815_562963807.mp4'
+file 'file:/Users/godex305/manimations/07_Lemacon_Curves/media/videos/Rightward_and_Leftward_Limacon/1920p60/partial_movie_files/RightwardAndLeftwardLimacon/732045285_1604805869_4284059470.mp4'
+file 'file:/Users/godex305/manimations/07_Lemacon_Curves/media/videos/Rightward_and_Leftward_Limacon/1920p60/partial_movie_files/RightwardAndLeftwardLimacon/732045285_3263629659_2298826160.mp4'
+file 'file:/Users/godex305/manimations/07_Lemacon_Curves/media/videos/Rightward_and_Leftward_Limacon/1920p60/partial_movie_files/RightwardAndLeftwardLimacon/732045285_4083596046_1227955143.mp4'
+file 'file:/Users/godex305/manimations/07_Lemacon_Curves/media/videos/Rightward_and_Leftward_Limacon/1920p60/partial_movie_files/RightwardAndLeftwardLimacon/732045285_2877953497_1521275653.mp4'
+file 'file:/Users/godex305/manimations/07_Lemacon_Curves/media/videos/Rightward_and_Leftward_Limacon/1920p60/partial_movie_files/RightwardAndLeftwardLimacon/732045285_4083596046_2293424673.mp4'
+file 'file:/Users/godex305/manimations/07_Lemacon_Curves/media/videos/Rightward_and_Leftward_Limacon/1920p60/partial_movie_files/RightwardAndLeftwardLimacon/732045285_2688965532_416150713.mp4'
+file 'file:/Users/godex305/manimations/07_Lemacon_Curves/media/videos/Rightward_and_Leftward_Limacon/1920p60/partial_movie_files/RightwardAndLeftwardLimacon/732045285_1707130913_2358810818.mp4'
